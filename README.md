@@ -1,4 +1,4 @@
-# 👋 Привет! Я Максим (Lotrest) — Frontend / Full-Stack разработчик
+# 👋 Привет! Lotrest — Frontend / Full-Stack разработчик
 
 ### 🚀 Мой стек технологий
 - **Frontend:** React, TypeScript, JavaScript, TailwindCSS, Framer Motion
