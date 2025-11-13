@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Привет! Я Максим (Lotrest) — Frontend / Full-Stack разработчик
 
-<!--
-**Lotrest/Lotrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Мой стек технологий
+- **Frontend:** React, TypeScript, JavaScript, TailwindCSS, Framer Motion
+- **Backend:** Node.js, Express, PostgreSQL, Prisma ORM
+- **Интеграции:** REST API, Telegram Bot API
+- **Инструменты:** Git, Vite, Docker (базовый), Postman, Figma
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Мои проекты
+
+#### 🧊 Salt Lake Kazakhstan — e-commerce платформа  
+Многостраничный сайт с каталогом, фильтрацией, корзиной, админ-панелью и Telegram-уведомлениями.  
+**Стек:** React, Tailwind, Node.js, Express, Prisma, PostgreSQL  
+🔗 Репозиторий добавлю позже
+
+---
+
+#### 💄 ANIN Beauty Studio — сайт салона красоты  
+Онлайн-запись, выбор мастера, календарь, адаптивный дизайн, анимации.  
+**Стек:** React, Tailwind, Framer Motion, Node.js  
+🔗 Репозиторий добавлю позже
+
+---
+
+#### 🎨 Верстка интерфейсов (React + Tailwind)  
+Pixel-perfect верстка по Figma, адаптив, анимации.  
+
+---
+
+### 📈 GitHub статистика
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotrest&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotrest&layout=compact&theme=tokyonight)
+
+---
+
+### 📩 Контакты  
+**Telegram:** @Lotest3
+**Email:** qeda2015@mail.ru
