@@ -38,7 +38,7 @@
 ### 💄 **ANIN Beauty Studio — сайт салона красоты**  
 Онлайн-запись, календарь, выбор мастера, премиальный UI, анимации и адаптив.  
 **Стек:** React, TailwindCSS, Framer Motion, Node.js  
-🔗 Репозиторий: [`anin-beauty`](https://github.com/Lotrest/anin-beauty)
+🔗 Репозиторий: [`anin-beauty`](https://github.com/Lotrest/anin-beauty-studi)
 
 ---
 
