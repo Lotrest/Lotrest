@@ -31,7 +31,7 @@
 ### 🧊 **Salt Lake Kazakhstan — B2B e-commerce платформа**  
 Многостраничный интернет-сервис для поставщика HoReCa: каталог, корзина, админ-панель, Telegram-уведомления, многоязычность.  
 **Стек:** React, Tailwind, Node.js, Express, Prisma, PostgreSQL  
-🔗 Репозиторий: [`salt-lake`](https://github.com/Lotrest/salt-lake)
+🔗 Репозиторий: [`salt-lake`](https://github.com/Lotrest/salt-lake-shop)
 
 ---
 
